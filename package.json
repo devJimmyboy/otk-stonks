@@ -1,6 +1,6 @@
 {
-  "name": "turborepo-basic-shared",
-  "version": "0.0.0",
+  "name": "otk-stonks",
+  "version": "0.1.0",
   "private": true,
   "workspaces": [
     "apps/*",
@@ -13,7 +13,7 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "devDependencies": {
-    "prettier": "^2.5.1",
+    "prettier": "^2.6.1",
     "turbo": "latest"
   },
   "engines": {
